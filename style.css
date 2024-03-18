@@ -1,0 +1,119 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+header {
+    background-color: #800080;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+header p {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+main {
+    padding: 10px;
+}
+
+.company-description,
+.our-expertise,
+.why-choose-us,
+.our-mission,
+.team-category {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.enterprise-item,
+.choose-us-item {
+    text-align: center;
+}
+
+.enterprise-item img,
+.choose-us-item img {
+    width: 100%; /* Adjust the size as needed */
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.team-category {
+    margin-bottom: 40px;
+    text-align: center;
+    display: flex;
+}
+
+.team-member {
+    width: 250px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+    text-align: center;
+}
+
+.team-member:hover {
+    transform: scale(1.05);
+}
+
+
+.team-member img {
+    width: 50%; /* Adjust the size as needed */
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 5px;
+    size: 100px;
+}
+
+.member-info {
+    padding: 5px;
+}
+
+footer {
+    background-color: #800080;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Add more styles based on your design reference */
