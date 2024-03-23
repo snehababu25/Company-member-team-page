@@ -1,2 +1,2 @@
-team page 
-https://github.com/snehababu25/Company-member-team-page.git
+team page -
+https://snehababu25.github.io/Company-member-team-page/
